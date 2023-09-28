@@ -1,6 +1,6 @@
+import 'package:awesome_notifications_core/awesome_notifications_core_method_channel.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:awesome_notifications_core/awesome_notifications_core_method_channel.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

@@ -1,7 +1,6 @@
-import 'package:flutter_test/flutter_test.dart';
-import 'package:awesome_notifications_core/awesome_notifications_core.dart';
-import 'package:awesome_notifications_core/awesome_notifications_core_platform_interface.dart';
 import 'package:awesome_notifications_core/awesome_notifications_core_method_channel.dart';
+import 'package:awesome_notifications_core/awesome_notifications_core_platform_interface.dart';
+import 'package:flutter_test/flutter_test.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
 class MockAwesomeNotificationsCorePlatform
