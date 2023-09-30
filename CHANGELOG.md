@@ -1,3 +1,7 @@
+## [0.7.5]
+### Added
+* Initial official integration between `awesome_notifications` and `awesome_notifications_fcm`.
+
 ## 0.7.5
 ### Added
 * Initial versions of Changelog, Readme and pubspec.yaml files

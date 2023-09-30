@@ -1,6 +1,6 @@
 name: awesome_notifications_core
 description: Provides a convenient way to automatically manage all versions of awesome_notifications plugins, ensuring that they are always compatible with each other and updated.
-version: 0.7.5
+version: 0.7.6
 homepage: https://awesome-notifications.carda.me
 
 environment:
@@ -16,7 +16,7 @@ dependencies:
 
 dependency_overrides:
   awesome_notifications: ^0.7.7
-  awesome_notifications_fcm: ^0.7.4+1
+  awesome_notifications_fcm: ^0.7.5
 
 dev_dependencies:
   flutter_test:
