@@ -1,3 +1,7 @@
+## [0.8.0]
+### Improved
+* Versions of `awesome_notifications` and `awesome_notifications_fcm` upgraded to 0.8.0
+
 ## [0.7.5]
 ### Added
 * Initial official integration between `awesome_notifications` and `awesome_notifications_fcm`.
