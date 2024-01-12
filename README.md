@@ -1,4 +1,4 @@
-# Awesome Notifications Core
+# Awesome Notifications Core - Year 2
 
 <div>
 
@@ -30,14 +30,14 @@ To use the `awesome_notifications_core` plugin to manage all of your awesome not
 
 ```yaml
 dependencies:
-  awesome_notifications_core: ^0.8.1 # latest
+  awesome_notifications_core: ^0.9.1 # latest
 ```
 
 2. Add all of the other awesome notifications plugins that you want to use in your project, with the version value set to `any`:
 
 ```yaml
 dependencies:
-  awesome_notifications_core: ^0.8.1
+  awesome_notifications_core: ^0.9.1
   awesome_notifications: any
   awesome_notifications_fcm: any # <- The other plugins are optional
 ```
